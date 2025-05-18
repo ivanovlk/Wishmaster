@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Wishmaster
+## Notes: Time to simplify the hunter class even more!
+## Author: Wishmaster
+## SavedVariablesPerCharacter: Wishmaster_Config
+
+Wishmaster.lua
